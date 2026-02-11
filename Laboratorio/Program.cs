@@ -8,4 +8,7 @@ Console.WriteLine("1166726");
 
 // Ingresar aquí nombre y carnet del colaborador:
 Console.WriteLine("==========================================");
+Console.WriteLine("Julián Barrios");
+Console.WriteLine("1216726");
 Console.ReadLine();
+

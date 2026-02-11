@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj": {}
+    "C:\\Users\\julian\\source\\repos\\Lab--X3\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj": {
+    "C:\\Users\\julian\\source\\repos\\Lab--X3\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj",
+        "projectUniqueName": "C:\\Users\\julian\\source\\repos\\Lab--X3\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj",
         "projectName": "Ejemplo",
-        "projectPath": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\Ejemplo.csproj",
-        "packagesPath": "C:\\Users\\Estuardo Castillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estuardo Castillo\\source\\repos\\Ejemplo\\obj\\",
+        "projectPath": "C:\\Users\\julian\\source\\repos\\Lab--X3\\Laboratorio--03\\Laboratorio\\Ejemplo.csproj",
+        "packagesPath": "C:\\Users\\julian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julian\\source\\repos\\Lab--X3\\Laboratorio--03\\Laboratorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Estuardo Castillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
